@@ -1,0 +1,20 @@
+.jumbotron {
+    background-color: #adb5bd;
+    color: #fff;
+    padding-top: 6rem
+}
+
+.profile {
+    width: 250px;
+    height: 250px;
+}
+
+.footer {
+    background-color: #6c757d;
+    color: #fff;
+    padding-top: 2rem
+}
+
+section {
+    padding-top: 5rem
+}
